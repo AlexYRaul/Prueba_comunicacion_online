@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "769672201665",
+    "firebase_url": "https://multijugador-762c8-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "multijugador-762c8",
+    "storage_bucket": "multijugador-762c8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:769672201665:android:4e45f74bd1c97ca5081b40",
+        "android_client_info": {
+          "package_name": "com.example.pruebacomunicaciononline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "769672201665-vseddhja37i9p920hfjpshj7kjhj2ssi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8KKmWNAeTiqxttnKM1SUm4i7b1Ateqyk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "769672201665-vseddhja37i9p920hfjpshj7kjhj2ssi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
